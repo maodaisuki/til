@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 ## 目录
 
 - [Today I Learned](#today-i-learned)
