@@ -1,3 +1,8 @@
+---
+layout: post
+custom_js: mouse_coords
+---
+
 # 将任何模型变为线稿
 
 1. 渲染模式设置为 Eevee（ Cycles 模式暂时无法渲染）。
