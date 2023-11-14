@@ -1,6 +1,6 @@
 ---
 layout: post
-custom_js: mouse_coords
+category: blender
 ---
 
 # 将任何模型变为线稿
