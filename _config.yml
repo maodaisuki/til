@@ -1,8 +1,8 @@
-title: "📝 Today I Learned"
-remote_theme: riggraz/no-style-please
+title: "Today I Learned"
+remote_theme: maodaisuki/no-style-please
 
 theme_config:
   appearance: "light" # can be "light", "dark" or "auto"
-  back_home_text: "📝 Today I Learned" # customize text for homepage link in post layout
+  back_home_text: "Today I Learned" # customize text for homepage link in post layout
   date_format: "%Y-%m-%d" # customize how date is formatted
   show_description: false # show blog description in home page
