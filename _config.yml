@@ -1,6 +1,8 @@
 title: "Today I Learned"
 remote_theme: maodaisuki/no-style-please
 
+favicon: "logo.png"
+
 theme_config:
   appearance: "light" # can be "light", "dark" or "auto"
   back_home_text: "Today I Learned" # customize text for homepage link in post layout
