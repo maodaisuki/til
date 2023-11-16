@@ -17,10 +17,20 @@
   - [目录](#目录)
   - [分类](#分类)
     * [Blender - 开源 3D 建模软件](#blender)
+    * [作画 - 做动画 X 路一条](#sakuga)
+    * [日语 - 散歩しましょう](#nihongo)
 
 ## 分类
 
 <h3 id='blender'>Blender - 开源 3D 建模软件</h3>
 
 - [将任何模型变为线稿](blender/blender-line.md)
+
+<h3 id='sakuga'>作画 - 做动画 X 路一条</h3>
+
+* [各种比例](sakuga/sakuga-ratio.md)
+
+<h3 id='nihongo'>日语 - 散歩しましょう</h3>
+
+* [急に・いきなり・突然](nihongo/kyuuni.md)
 
