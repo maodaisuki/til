@@ -33,4 +33,5 @@
 <h3 id='nihongo'>日语 - 散歩しましょう</h3>
 
 * [急に・いきなり・突然](nihongo/kyuuni.md)
+* [よう・みたい・っぽい・らしい・そう](nihongo/you.md)
 
