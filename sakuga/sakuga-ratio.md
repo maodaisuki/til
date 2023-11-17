@@ -4,9 +4,8 @@ category: sakuga
 title: 各种比例
 ---
 
-[toc]
+各种可能用到的包括几何基本体在各个角度的透视比例。
 
 ## 正方体比例
 
-## 圆柱比例
-
+![正方体比例](./images/cube-ratio.png)
