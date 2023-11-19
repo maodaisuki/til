@@ -1,7 +1,7 @@
 ---
 layout: post
 category: sakuga
-title: 各种比例和转角度
+title: 各种比例
 ---
 
 各种可能用到的包括几何基本体在各个角度的透视比例。
