@@ -34,5 +34,6 @@
 
 * [急に・いきなり・突然](nihongo/kyuuni.md)
 * [よう・みたい・っぽい・らしい・そう](nihongo/you.md)
+* [たて・たばかり・たところ](nihongo/tate.md)
 * [一个完整的动作表达](nihongo/doathing.md)
 
